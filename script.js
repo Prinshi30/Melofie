@@ -7,6 +7,7 @@ let gif = document.getElementById('gif');
 let masterSongName = document.getElementById('masterSongName');
 let songItems = Array.from(document.getElementsByClassName('songItem'));
 
+
 let songs = [
     {songName: "On & On-Cartoon, Daniel Levi", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName: "Invincible-DEAF KEV", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
